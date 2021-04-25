@@ -22,7 +22,6 @@ out/
 build/
 
 # Properties files (sdk path, etc)
-*.properties
 keystore.properties
 local.properties
 
@@ -104,3 +103,5 @@ app/aruppilite/release/
 app/alphatesting/release/
 
 app/aruppibeta/
+
+gradle.properties
